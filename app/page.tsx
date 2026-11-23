@@ -34,27 +34,26 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <div className="bg-slate-50">
-      {/* HERO SECTION - Inspired by Drainhaus theme with rich blue shade & subtle background imagery */}
+      {/* HERO SECTION - Inspired by Drainhaus theme with rich blue shade & faded background image */}
       <section className="relative bg-[#0B1528] text-white overflow-hidden py-16 sm:py-24 border-b-4 border-primary">
-        {/* Subtle Hero Background Image with Rich Blue Shade */}
+        {/* Faded Hero Background Image with Rich Blue Shade (No dots) */}
         <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
           <Image
             src="/images/basement-tankless-maintenance.jpg"
             alt="Denver professional water heater installation background"
             fill
             priority
-            className="object-cover object-center opacity-20 filter contrast-115 brightness-95"
+            className="object-cover object-right lg:object-center opacity-30 filter contrast-115 brightness-95"
             sizes="100vw"
           />
-          {/* Rich Plumbing Blue Shade Overlays */}
-          <div className="absolute inset-0 bg-gradient-to-r from-[#071738]/95 via-[#0A2552]/85 to-[#063870]/75" />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#0B1528]/95 via-transparent to-[#0B1528]/70" />
-          <div className="absolute inset-0 bg-sky-600/15 mix-blend-color" />
-          <div className="absolute inset-0 bg-[radial-gradient(#38bdf8_1px,transparent_1px)] [background-size:20px_20px] opacity-20" />
+          {/* Smooth Faded Blue Overlays for maximum text clarity & rich plumbing blue tone */}
+          <div className="absolute inset-0 bg-gradient-to-r from-[#0B1528] via-[#0B1528]/85 to-[#072448]/45" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#0B1528] via-transparent to-[#0B1528]/75" />
+          <div className="absolute inset-0 bg-primary-dark/20 mix-blend-color" />
         </div>
 
         {/* Ambient Blue Glowing Orbs for extra depth and vibrant blue tone */}
-        <div className="absolute -top-24 -right-24 w-96 h-96 bg-primary/30 rounded-full blur-3xl pointer-events-none" />
+        <div className="absolute -top-24 -right-24 w-96 h-96 bg-primary/25 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute top-1/3 -left-20 w-80 h-80 bg-sky-500/20 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-accent/20 rounded-full blur-3xl pointer-events-none" />
 
