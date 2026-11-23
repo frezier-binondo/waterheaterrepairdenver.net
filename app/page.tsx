@@ -34,14 +34,28 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <div className="bg-slate-50">
-      {/* HERO SECTION - Inspired by Drainhaus theme */}
-      <section className="relative bg-navy-900 text-white overflow-hidden py-16 sm:py-24 border-b-4 border-primary">
-        {/* Subtle patterned overlay */}
-        <div className="absolute inset-0 bg-[radial-gradient(#1e293b_1px,transparent_1px)] [background-size:16px_16px] opacity-40 pointer-events-none" />
+      {/* HERO SECTION - Inspired by Drainhaus theme with subtle background imagery */}
+      <section className="relative bg-navy-950 text-white overflow-hidden py-16 sm:py-24 border-b-4 border-primary">
+        {/* Subtle Hero Background Image */}
+        <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+          <Image
+            src="/images/basement-tankless-maintenance.jpg"
+            alt="Denver professional water heater installation background"
+            fill
+            priority
+            className="object-cover object-center opacity-15 filter contrast-110 brightness-95"
+            sizes="100vw"
+          />
+          {/* Dual gradient overlays to ensure text contrast and elegance */}
+          <div className="absolute inset-0 bg-gradient-to-r from-navy-950 via-navy-950/85 to-navy-900/75" />
+          <div className="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-transparent to-navy-950/70" />
+          <div className="absolute inset-0 bg-[radial-gradient(#1e293b_1px,transparent_1px)] [background-size:16px_16px] opacity-35" />
+        </div>
+
         <div className="absolute -top-24 -right-24 w-96 h-96 bg-primary/20 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-accent/20 rounded-full blur-3xl pointer-events-none" />
 
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             {/* Left Content Column */}
             <div className="lg:col-span-7 space-y-6 text-center lg:text-left">
