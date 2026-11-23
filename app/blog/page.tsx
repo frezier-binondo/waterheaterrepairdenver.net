@@ -227,7 +227,7 @@ export default function BlogHubPage() {
         {/* Final CTA */}
         <PhoneCTASection
           title="Have a Water Heater Problem Not Covered Here?"
-          subtitle="Call our local Denver dispatch line at (456) 789-0123. Describe your symptoms and get matched with an independent licensed Colorado plumber with same-day availability."
+          subtitle="Call our local Denver dispatch line at (303) 386-0029. Describe your symptoms and get matched with an independent licensed Colorado plumber with same-day availability."
         />
       </div>
     </div>

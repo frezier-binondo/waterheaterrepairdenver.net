@@ -23,7 +23,7 @@ import PhoneCTASection from "@/components/PhoneCTASection";
 export const metadata: Metadata = {
   title: "Contact Us | Water Heater Repair in Denver",
   description:
-    "Request water heater repair or replacement in Denver, CO. Phone-only rapid dispatch. Speak with a licensed local plumber. Call (456) 789-0123.",
+    "Request water heater repair or replacement in Denver, CO. Phone-only rapid dispatch. Speak with a licensed local plumber. Call (303) 386-0029.",
 };
 
 export default function ContactPage() {
@@ -202,7 +202,7 @@ export default function ContactPage() {
               Clear &amp; Transparent Dispatch
             </span>
             <h3 className="text-xl sm:text-2xl font-black text-navy-900 leading-tight">
-              What Happens When You Call (456) 789-0123
+              What Happens When You Call (303) 386-0029
             </h3>
             <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
               You speak immediately with our Denver intake coordinator rather than filling out an impersonal web form. We collect your water heater type (gas, electric, or tankless) and symptoms, and promptly route your call to an independent, insured Colorado plumber operating in your immediate neighborhood.
@@ -284,7 +284,7 @@ export default function ContactPage() {
         {/* Final CTA */}
         <PhoneCTASection
           title="Speak Directly With a Denver Water Heater Specialist"
-          subtitle="No forms, no waiting. Call (456) 789-0123 to describe your issue and receive an honest assessment, same-day scheduling, and clear upfront pricing."
+          subtitle="No forms, no waiting. Call (303) 386-0029 to describe your issue and receive an honest assessment, same-day scheduling, and clear upfront pricing."
         />
       </div>
     </div>

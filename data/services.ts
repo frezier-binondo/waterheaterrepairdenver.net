@@ -109,7 +109,7 @@ export const servicesData: ServiceItem[] = [
     repairVsReplace: "If water is actively gushing from the cylindrical body of the tank, no patch or solder can fix it; the tank must be isolated and replaced immediately. If the emergency is caused by a ruptured flex line, sheared drain valve, or faulty T&P valve, the plumber can replace the fitting on the spot.",
     denverClimateFactors: "Sub-zero Denver winters can turn a water heater outage into a frozen domestic pipe emergency within hours. Plumbers prioritize urgent winter calls to prevent catastrophic secondary pipe burst damage throughout the house.",
     faqs: [
-      { q: "What should I do immediately if my tank is flooding?", a: "Locate the cold water shutoff valve above the heater (turn clockwise until tight). Then shut off electrical power at your breaker box or rotate the gas valve to 'OFF'. Call (456) 789-0123 immediately." },
+      { q: "What should I do immediately if my tank is flooding?", a: "Locate the cold water shutoff valve above the heater (turn clockwise until tight). Then shut off electrical power at your breaker box or rotate the gas valve to 'OFF'. Call (303) 386-0029 immediately." },
       { q: "Is emergency service available nights and weekends?", a: "Yes, our network includes on-call licensed plumbers responding 24 hours a day, 7 days a week across the Denver metro area." },
       { q: "Will homeowner insurance cover water heater failure?", a: "Most policies cover sudden, accidental water damage to flooring, drywall, and personal property, though the aged water heater appliance itself is rarely reimbursed." },
       { q: "Can a plumber replace a failed tank the same day?", a: "Yes, local technicians carry standard 40 and 50-gallon gas and electric units on their trucks or have after-hours warehouse access for rapid installation." },
@@ -570,7 +570,7 @@ export const servicesData: ServiceItem[] = [
     faqs: [
       { q: "Why is my water heater leaking from the bottom?", a: "It could be a dripping drain valve, condensation runoff, a leak from top fittings running down behind the jacket, or an internal tank rupture. A plumber inspects the unit to identify the exact source." },
       { q: "Can a leaking water heater tank be welded or patched?", a: "No. Water heaters operate under continuous 40–80 PSI pressure and thermal cycling. Patching or welding a corroded glass-lined tank is impossible and violates plumbing safety codes." },
-      { q: "What should I do right now if my heater is leaking?", a: "Shut off the cold water supply valve on top of the tank immediately. Turn off the electrical breaker or gas supply. Relieve pressure by opening a hot faucet upstairs, and call (456) 789-0123." },
+      { q: "What should I do right now if my heater is leaking?", a: "Shut off the cold water supply valve on top of the tank immediately. Turn off the electrical breaker or gas supply. Relieve pressure by opening a hot faucet upstairs, and call (303) 386-0029." },
       { q: "Why is water dripping from my relief valve discharge pipe?", a: "The T&P valve is releasing excess pressure or high temperature. Common causes are thermal expansion in a closed plumbing system, a failed expansion tank, or a defective thermostat." },
       { q: "How can I prevent future leaks from damaging my basement?", a: "Install an aluminum drain pan plumbed to a floor drain, an automatic water shutoff leak sensor, and an expansion tank." },
     ],

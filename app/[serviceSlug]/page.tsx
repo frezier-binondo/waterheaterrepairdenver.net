@@ -400,7 +400,7 @@ export default async function ServicePillarPage({ params }: ServicePageProps) {
         {/* Call to Action Section */}
         <PhoneCTASection
           title={`Request ${service.name} in Denver Today`}
-          subtitle={`Speak directly to our local dispatch at (456) 789-0123. We match you with an independent, licensed Colorado plumber with same-day availability and transparent written pricing.`}
+          subtitle={`Speak directly to our local dispatch at (303) 386-0029. We match you with an independent, licensed Colorado plumber with same-day availability and transparent written pricing.`}
         />
       </div>
     </div>

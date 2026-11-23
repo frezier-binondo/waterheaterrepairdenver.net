@@ -2,9 +2,9 @@ export const siteConfig = {
   name: "Water Heater Repair in Denver",
   legalName: "Denver Water Heater Repair & Emergency Network",
   domain: "https://waterheaterrepairdenver.net",
-  phone: "14567890123",
-  phoneFormatted: "(456) 789-0123",
-  phoneTel: "tel:14567890123",
+  phone: "13033860029",
+  phoneFormatted: "(303) 386-0029",
+  phoneTel: "tel:13033860029",
   address: {
     street: "1700 Lincoln St",
     city: "Denver",

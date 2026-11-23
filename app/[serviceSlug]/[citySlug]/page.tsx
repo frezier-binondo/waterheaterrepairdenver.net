@@ -51,7 +51,7 @@ export async function generateMetadata({
   }
 
   const metaTitle = `${service.name} ${city.name}, CO`;
-  const metaDescription = `${service.name} in ${city.name}, CO by licensed local plumbers. Fast diagnosis, upfront pricing, and same-day dispatch. Call (456) 789-0123.`;
+  const metaDescription = `${service.name} in ${city.name}, CO by licensed local plumbers. Fast diagnosis, upfront pricing, and same-day dispatch. Call (303) 386-0029.`;
 
   return {
     title: metaTitle,
@@ -88,7 +88,7 @@ export default async function ServiceCityPage({ params }: ServiceCityPageProps) 
     "@context": "https://schema.org",
     "@type": "PlumbingService",
     "name": `${service.name} in ${city.name}, CO`,
-    "telephone": "+14567890123",
+    "telephone": "+13033860029",
     "serviceType": service.name,
     "address": {
       "@type": "PostalAddress",
@@ -367,7 +367,7 @@ export default async function ServiceCityPage({ params }: ServiceCityPageProps) 
         {/* Final CTA */}
         <PhoneCTASection
           title={`Call for ${service.name} in ${city.name}, CO`}
-          subtitle={`Need fast help in ${city.name}? Call (456) 789-0123. We match you with an independent, licensed Colorado plumber with same-day availability and transparent written pricing.`}
+          subtitle={`Need fast help in ${city.name}? Call (303) 386-0029. We match you with an independent, licensed Colorado plumber with same-day availability and transparent written pricing.`}
         />
       </div>
     </div>

@@ -273,7 +273,7 @@ export default function ServiceAreasHubPage() {
         {/* Final CTA */}
         <PhoneCTASection
           title="Looking for a Water Heater Plumber in Your Neighborhood?"
-          subtitle="Call (456) 789-0123. Tell us your address and what you are seeing—no hot water, a leak, or an aging tank. We connect you with an independent, licensed Colorado plumber with same-day availability."
+          subtitle="Call (303) 386-0029. Tell us your address and what you are seeing—no hot water, a leak, or an aging tank. We connect you with an independent, licensed Colorado plumber with same-day availability."
         />
       </div>
     </div>

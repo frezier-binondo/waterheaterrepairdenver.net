@@ -34,7 +34,7 @@ export const faqsData: FAQItem[] = [
     id: "faq-5",
     category: "Emergency",
     question: "What should I do immediately if my water heater is leaking water onto the floor?",
-    answer: "First, immediately shut off the cold water supply valve located on top of the tank (turn the brass lever perpendicular or the round wheel clockwise). Second, shut off the energy source: turn the gas control dial to 'OFF' or switch off the dedicated 240V breaker in your electrical service panel. Third, relieve pressure by opening a hot water tap upstairs. Finally, call our emergency dispatch line at (456) 789-0123."
+    answer: "First, immediately shut off the cold water supply valve located on top of the tank (turn the brass lever perpendicular or the round wheel clockwise). Second, shut off the energy source: turn the gas control dial to 'OFF' or switch off the dedicated 240V breaker in your electrical service panel. Third, relieve pressure by opening a hot water tap upstairs. Finally, call our emergency dispatch line at (303) 386-0029."
   },
   {
     id: "faq-6",

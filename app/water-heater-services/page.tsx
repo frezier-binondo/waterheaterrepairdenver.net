@@ -315,7 +315,7 @@ export default function ServicesHubPage() {
         {/* Final CTA */}
         <PhoneCTASection
           title="Ready to Schedule Your Water Heater Service?"
-          subtitle="Call our local Denver team at (456) 789-0123. We match you with an independent, licensed Colorado plumber with same-day availability and transparent written pricing."
+          subtitle="Call our local Denver team at (303) 386-0029. We match you with an independent, licensed Colorado plumber with same-day availability and transparent written pricing."
         />
       </div>
     </div>

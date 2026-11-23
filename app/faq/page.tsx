@@ -227,7 +227,7 @@ export default function FAQPage() {
         {/* Final CTA */}
         <PhoneCTASection
           title="Have More Questions? Speak to a Denver Specialist"
-          subtitle="Don't spend hours guessing what is wrong with your water heater. Call (456) 789-0123 to talk directly with an experienced local plumbing professional."
+          subtitle="Don't spend hours guessing what is wrong with your water heater. Call (303) 386-0029 to talk directly with an experienced local plumbing professional."
         />
       </div>
     </div>

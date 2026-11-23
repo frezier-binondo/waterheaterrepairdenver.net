@@ -167,7 +167,7 @@ export default function HomePage() {
                     className="w-full flex items-center justify-center gap-2 py-3.5 px-4 rounded-xl bg-primary hover:bg-primary-hover text-white font-bold text-sm shadow-md transition"
                   >
                     <Phone className="h-4 w-4" />
-                    <span>Dial (456) 789-0123 for Assistance</span>
+                    <span>Dial (303) 386-0029 for Assistance</span>
                   </a>
                 </div>
               </div>
@@ -483,7 +483,7 @@ export default function HomePage() {
               <div className="text-accent font-black text-xs uppercase">Step 01</div>
               <h4 className="font-bold text-sm text-navy-900">Call Dispatch</h4>
               <p className="text-xs text-slate-600">
-                Call (456) 789-0123 and describe your issue: leaking tank, no hot water, or pilot outage.
+                Call (303) 386-0029 and describe your issue: leaking tank, no hot water, or pilot outage.
               </p>
             </div>
 
@@ -622,7 +622,7 @@ export default function HomePage() {
         {/* Section 9: Primary Call-to-Action */}
         <PhoneCTASection
           title="Get Hot Water Back in Your Denver Home Today"
-          subtitle="Speak directly to our local dispatch team at (456) 789-0123. We match you with an independent, licensed Colorado plumber who provides honest diagnosis, written pricing, and same-day scheduling."
+          subtitle="Speak directly to our local dispatch team at (303) 386-0029. We match you with an independent, licensed Colorado plumber who provides honest diagnosis, written pricing, and same-day scheduling."
           urgentNotice="Active leak or gas smell? Shut off supply valves immediately and call without delay."
         />
       </div>

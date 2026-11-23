@@ -57,7 +57,7 @@ export default function RootLayout({
     "image": `${siteConfig.domain}/images/plumber-with-wrench-standing.jpg`,
     "@id": siteConfig.domain,
     "url": siteConfig.domain,
-    "telephone": "+14567890123",
+    "telephone": "+13033860029",
     "priceRange": "$$",
     "address": {
       "@type": "PostalAddress",

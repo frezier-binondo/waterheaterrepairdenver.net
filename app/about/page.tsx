@@ -235,7 +235,7 @@ export default function AboutPage() {
         {/* Call CTA */}
         <PhoneCTASection
           title="Connect With a Trusted Denver Plumber Today"
-          subtitle="Call (456) 789-0123. Tell us your water heater's age, brand, and symptoms. We will connect you with a licensed local plumber who arrives with upfront written pricing."
+          subtitle="Call (303) 386-0029. Tell us your water heater's age, brand, and symptoms. We will connect you with a licensed local plumber who arrives with upfront written pricing."
         />
       </div>
     </div>

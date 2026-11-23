@@ -155,7 +155,7 @@ The Temperature and Pressure Relief (T&P) valve is the primary safety mechanism 
 
 ## What Callers Should Have Ready When Requesting Help
 
-When you call our local Denver dispatch line at **(456) 789-0123**, having the following details on hand allows our independent licensed plumbers to arrive prepared with the exact parts or replacement tank needed:
+When you call our local Denver dispatch line at **(303) 386-0029**, having the following details on hand allows our independent licensed plumbers to arrive prepared with the exact parts or replacement tank needed:
 
 1. **Brand and Model**: Check the rating label (e.g., Bradford White, Rheem, A.O. Smith, Navien).
 2. **Fuel Source**: Natural Gas, Propane, Electric 240V, or Hybrid Heat Pump.
@@ -296,7 +296,7 @@ Explore our dedicated [Water Heater Installation](/water-heater-installation-den
 
 ## Making the Right Decision for Your Denver Home
 
-The right choice comes down to your budget, household size, and how long you plan to stay in your home. Our network of licensed Colorado plumbers provides honest, transparent assessments. When you call **(456) 789-0123**, a local plumber can inspect your current utility space, check your gas line size, and provide a clear written estimate for both conventional and tankless replacement options.
+The right choice comes down to your budget, household size, and how long you plan to stay in your home. Our network of licensed Colorado plumbers provides honest, transparent assessments. When you call **(303) 386-0029**, a local plumber can inspect your current utility space, check your gas line size, and provide a clear written estimate for both conventional and tankless replacement options.
     `,
   },
   {
@@ -417,7 +417,7 @@ If your water heater has begun rumbling but you need to stabilize the system bef
 
 ## When Rumbling Means the Tank Is Too Far Gone
 
-It is critical to recognize when sediment damage has transitioned from a maintenance issue into an unavoidable replacement scenario. If you observe water droplets sizzling on the main gas burner or see moisture seeping through the bottom insulation ring, internal thermal fatigue has already compromised the steel cylinder. In this situation, further flushing is useless. Contact our Denver emergency team at **(456) 789-0123** to coordinate immediate same-day replacement.
+It is critical to recognize when sediment damage has transitioned from a maintenance issue into an unavoidable replacement scenario. If you observe water droplets sizzling on the main gas burner or see moisture seeping through the bottom insulation ring, internal thermal fatigue has already compromised the steel cylinder. In this situation, further flushing is useless. Contact our Denver emergency team at **(303) 386-0029** to coordinate immediate same-day replacement.
     `,
   },
   {
@@ -559,7 +559,7 @@ Many homeowners ask whether they need a full salt-based water softener or if phy
 
 ## Schedule a Water Quality & Heater Inspection
 
-If your water heater is producing white flakes in faucet aerators, rumbling during heating cycles, or running out of hot water prematurely, contact our local team at **(456) 789-0123**. A licensed Denver plumber will test your water, inspect your tank, and recommend the ideal maintenance or upgrade plan.
+If your water heater is producing white flakes in faucet aerators, rumbling during heating cycles, or running out of hot water prematurely, contact our local team at **(303) 386-0029**. A licensed Denver plumber will test your water, inspect your tank, and recommend the ideal maintenance or upgrade plan.
     `,
   },
   {
@@ -649,9 +649,9 @@ If you have a standard garden hose available and access to a nearby basement flo
 
 ---
 
-## Step 5: Call for Emergency Water Heater Dispatch: (456) 789-0123
+## Step 5: Call for Emergency Water Heater Dispatch: (303) 386-0029
 
-With the immediate flooding stabilized, call our emergency dispatch team at **(456) 789-0123**. We match you with an on-call, licensed Colorado plumber who services your neighborhood.
+With the immediate flooding stabilized, call our emergency dispatch team at **(303) 386-0029**. We match you with an on-call, licensed Colorado plumber who services your neighborhood.
 
 ### What Callers Should Have Ready When Calling
 - **Tank Brand & Model**: (e.g. Bradford White, Rheem, A.O. Smith).
@@ -701,7 +701,7 @@ If you have experienced a water heater leak once, taking these preventative meas
 3. **Thermal Expansion Tank**: Absorbs thermal pressure spikes that blow out safety valves and stress tank seams.
 4. **Professional Maintenance**: Schedule a yearly [Water Heater Maintenance](/water-heater-maintenance-denver/) visit to monitor anode rod depletion and tank wall thickness.
 
-For immediate help anywhere across the Denver metro area, call **(456) 789-0123** now.
+For immediate help anywhere across the Denver metro area, call **(303) 386-0029** now.
     `,
   },
   {
@@ -825,7 +825,7 @@ Explore our [Tankless Water Heater Installation](/tankless-water-heater-installa
 
 Every home in Colorado with gas appliances is required by state law (the Colorado Carbon Monoxide Safety Act) to maintain operational carbon monoxide alarms within 15 feet of every sleeping room. Test your alarms monthly and replace detectors every 5 to 7 years.
 
-If you suspect combustion issues, delayed ignition, or venting problems with your gas water heater, call **(456) 789-0123** for expert diagnosis by a certified Colorado plumbing technician.
+If you suspect combustion issues, delayed ignition, or venting problems with your gas water heater, call **(303) 386-0029** for expert diagnosis by a certified Colorado plumbing technician.
     `,
   },
   {
@@ -964,7 +964,7 @@ To get an accurate, upfront estimate over the phone, have the following details 
 3. **Current Tank Capacity**: 40, 50, or 75 gallons.
 4. **Current Symptoms**: Total loss of heat, lukewarm water, strange noises, or active water on floor.
 
-For honest, upfront guidance without sales pressure, call Denver's trusted network at **(456) 789-0123**.
+For honest, upfront guidance without sales pressure, call Denver's trusted network at **(303) 386-0029**.
     `,
   },
   {
@@ -1097,7 +1097,7 @@ Replacing the factory magnesium rod with an **Aluminum-Zinc alloy anode rod** co
 
 ## Protect Your Investment Today
 
-Replacing a sacrificial anode rod every 4 to 5 years is the single cheapest insurance policy in all of home maintenance. If your water heater is over 3 years old and has never had its anode checked, call Denver's licensed network at **(456) 789-0123** to schedule an annual maintenance inspection.
+Replacing a sacrificial anode rod every 4 to 5 years is the single cheapest insurance policy in all of home maintenance. If your water heater is over 3 years old and has never had its anode checked, call Denver's licensed network at **(303) 386-0029** to schedule an annual maintenance inspection.
     `,
   },
   {
@@ -1229,7 +1229,7 @@ For example, an 8x10 foot utility room with an 8-foot ceiling provides 640 cubic
 
 If your home currently has an electric water heater located in a basement or large utility room, upgrading to a hybrid heat pump is one of the single most profitable green energy upgrades you can make.
 
-To verify whether your electrical panel has adequate 30-amp 240V capacity and check which local rebates apply to your address, call our Denver team at **(456) 789-0123**.
+To verify whether your electrical panel has adequate 30-amp 240V capacity and check which local rebates apply to your address, call our Denver team at **(303) 386-0029**.
     `,
   },
   {
@@ -1379,7 +1379,7 @@ Before a Denver Department of Public Health & Environment (DDPHE) inspector ente
 
 When hot water fails at your business, speed is everything. Our commercial plumbing network provides dedicated priority dispatch for restaurants, salons, property managers, and commercial facilities across Denver, Aurora, Lakewood, Arvada, and Westminster.
 
-Call our commercial priority line at **(456) 789-0123** to connect directly with a licensed commercial plumbing specialist.
+Call our commercial priority line at **(303) 386-0029** to connect directly with a licensed commercial plumbing specialist.
     `,
   },
   {
@@ -1463,7 +1463,7 @@ Water and high voltage are an extremely dangerous combination. Inspect the outer
 
 If simple breaker and reset checks fail to restore hot water, further troubleshooting requires a digital multimeter to test continuity and resistance across 240V terminals—a task that carries severe shock risks and is best handled by a licensed professional.
 
-Call Denver dispatch at **(456) 789-0123** if you observe any of the following:
+Call Denver dispatch at **(303) 386-0029** if you observe any of the following:
 
 ### 1. Water Is Lukewarm or Runs Out in Two Minutes
 This is the textbook symptom of a burned-out **lower heating element**. Because the upper element functions, you get a quick burst of hot water that depletes almost instantly. A plumber drains the tank partially, unscrews the element with a specialized 1-1/2-inch hex socket, and threads in a brand new heavy-duty element.
@@ -1497,7 +1497,7 @@ In Denver and suburbs like [Lakewood](/service-areas/lakewood/) and [Centennial]
 2. **Schedule Annual Tank Draining**: Flushing loose sediment once a year keeps the lower element immersed in clear water rather than sand.
 3. **Check the Sacrificial Anode Rod**: Electric water heater steel tanks can easily last 15+ years if the anode rod is replaced every 4 to 5 years.
 
-For fast, same-day diagnosis and repair of your electric water heater anywhere in the Denver metro area, call **(456) 789-0123** today.
+For fast, same-day diagnosis and repair of your electric water heater anywhere in the Denver metro area, call **(303) 386-0029** today.
     `,
   },
   {
@@ -1592,7 +1592,7 @@ If your pilot light has gone out, follow these instructions carefully. **If you 
 
 If you attempt the relighting procedure twice and the pilot flame refuses to stay lit when releasing the knob, continuing to force it down is dangerous and can damage internal valve components.
 
-Call our local dispatch team at **(456) 789-0123**. We will match you with a licensed local plumber who arrives with diagnostic millivolt meters, replacement thermocouples, and universal pilot assemblies to fix the issue safely in under an hour.
+Call our local dispatch team at **(303) 386-0029**. We will match you with a licensed local plumber who arrives with diagnostic millivolt meters, replacement thermocouples, and universal pilot assemblies to fix the issue safely in under an hour.
 
 Visit our dedicated [Water Heater Pilot Light Repair](/water-heater-pilot-light-repair-denver/) page for more information on same-day service across Denver and surrounding suburbs.
     `,

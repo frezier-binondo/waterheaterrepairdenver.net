@@ -313,7 +313,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
         {/* Call CTA */}
         <PhoneCTASection
           title="Need Professional Water Heater Help in Denver?"
-          subtitle="Don't waste time troubleshooting complicated high-voltage or natural gas systems alone. Call (456) 789-0123 to reach an independent licensed Colorado plumber today."
+          subtitle="Don't waste time troubleshooting complicated high-voltage or natural gas systems alone. Call (303) 386-0029 to reach an independent licensed Colorado plumber today."
         />
       </div>
     </div>

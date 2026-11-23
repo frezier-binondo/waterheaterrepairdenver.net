@@ -71,7 +71,7 @@ export default async function CityHubPage({ params }: CityPageProps) {
     "@context": "https://schema.org",
     "@type": "PlumbingService",
     "name": `${siteConfig.name} - ${location.name}`,
-    "telephone": "+14567890123",
+    "telephone": "+13033860029",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": location.name,
@@ -359,7 +359,7 @@ export default async function CityHubPage({ params }: CityPageProps) {
         {/* Final CTA */}
         <PhoneCTASection
           title={`Call for Water Heater Service in ${location.name}, CO`}
-          subtitle={`Need emergency or scheduled water heater help in ${location.name}? Call (456) 789-0123. We match you with an independent, licensed Colorado plumber with same-day availability and transparent written pricing.`}
+          subtitle={`Need emergency or scheduled water heater help in ${location.name}? Call (303) 386-0029. We match you with an independent, licensed Colorado plumber with same-day availability and transparent written pricing.`}
         />
       </div>
     </div>
