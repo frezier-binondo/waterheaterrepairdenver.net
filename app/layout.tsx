@@ -40,6 +40,9 @@ export const metadata: Metadata = {
     locale: "en_US",
     type: "website",
   },
+  verification: {
+    google: "GovZ37xDJ0MOl39DF65lJEz7pdHtK_MDu5EgSmQre_M",
+  },
 };
 
 export default function RootLayout({
@@ -104,6 +107,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <meta
+          name="google-site-verification"
+          content="GovZ37xDJ0MOl39DF65lJEz7pdHtK_MDu5EgSmQre_M"
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
