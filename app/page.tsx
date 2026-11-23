@@ -36,20 +36,19 @@ export default function HomePage() {
     <div className="bg-slate-50">
       {/* HERO SECTION - Inspired by Drainhaus theme with rich blue shade & faded background image */}
       <section className="relative bg-[#0B1528] text-white overflow-hidden py-16 sm:py-24 border-b-4 border-primary">
-        {/* Faded Hero Background Image with Rich Blue Shade (No dots) */}
+        {/* Faded Hero Background Image with Rich Blue Shade (Visible & Elegant) */}
         <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
           <Image
             src="/images/basement-tankless-maintenance.jpg"
             alt="Denver professional water heater installation background"
             fill
             priority
-            className="object-cover object-right lg:object-center opacity-30 filter contrast-115 brightness-95"
+            className="object-cover object-center opacity-50 filter contrast-110 brightness-105"
             sizes="100vw"
           />
-          {/* Smooth Faded Blue Overlays for maximum text clarity & rich plumbing blue tone */}
-          <div className="absolute inset-0 bg-gradient-to-r from-[#0B1528] via-[#0B1528]/85 to-[#072448]/45" />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#0B1528] via-transparent to-[#0B1528]/75" />
-          <div className="absolute inset-0 bg-primary-dark/20 mix-blend-color" />
+          {/* Smooth Faded Blue Overlays: deep solid blue behind text on left, clearly visible image on right */}
+          <div className="absolute inset-0 bg-gradient-to-r from-[#0B1528] via-[#0B1528]/80 to-[#082855]/40" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#0B1528]/90 via-transparent to-[#0B1528]/60" />
         </div>
 
         {/* Ambient Blue Glowing Orbs for extra depth and vibrant blue tone */}
