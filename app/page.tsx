@@ -34,25 +34,28 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <div className="bg-slate-50">
-      {/* HERO SECTION - Inspired by Drainhaus theme with subtle background imagery */}
-      <section className="relative bg-navy-950 text-white overflow-hidden py-16 sm:py-24 border-b-4 border-primary">
-        {/* Subtle Hero Background Image */}
+      {/* HERO SECTION - Inspired by Drainhaus theme with rich blue shade & subtle background imagery */}
+      <section className="relative bg-[#0B1528] text-white overflow-hidden py-16 sm:py-24 border-b-4 border-primary">
+        {/* Subtle Hero Background Image with Rich Blue Shade */}
         <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
           <Image
             src="/images/basement-tankless-maintenance.jpg"
             alt="Denver professional water heater installation background"
             fill
             priority
-            className="object-cover object-center opacity-15 filter contrast-110 brightness-95"
+            className="object-cover object-center opacity-20 filter contrast-115 brightness-95"
             sizes="100vw"
           />
-          {/* Dual gradient overlays to ensure text contrast and elegance */}
-          <div className="absolute inset-0 bg-gradient-to-r from-navy-950 via-navy-950/85 to-navy-900/75" />
-          <div className="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-transparent to-navy-950/70" />
-          <div className="absolute inset-0 bg-[radial-gradient(#1e293b_1px,transparent_1px)] [background-size:16px_16px] opacity-35" />
+          {/* Rich Plumbing Blue Shade Overlays */}
+          <div className="absolute inset-0 bg-gradient-to-r from-[#071738]/95 via-[#0A2552]/85 to-[#063870]/75" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#0B1528]/95 via-transparent to-[#0B1528]/70" />
+          <div className="absolute inset-0 bg-sky-600/15 mix-blend-color" />
+          <div className="absolute inset-0 bg-[radial-gradient(#38bdf8_1px,transparent_1px)] [background-size:20px_20px] opacity-20" />
         </div>
 
-        <div className="absolute -top-24 -right-24 w-96 h-96 bg-primary/20 rounded-full blur-3xl pointer-events-none" />
+        {/* Ambient Blue Glowing Orbs for extra depth and vibrant blue tone */}
+        <div className="absolute -top-24 -right-24 w-96 h-96 bg-primary/30 rounded-full blur-3xl pointer-events-none" />
+        <div className="absolute top-1/3 -left-20 w-80 h-80 bg-sky-500/20 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-accent/20 rounded-full blur-3xl pointer-events-none" />
 
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
